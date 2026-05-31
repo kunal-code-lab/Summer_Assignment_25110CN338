@@ -19,6 +19,7 @@ int checkprime(int a)
         }
     
 }
+
 int main()
 {
     int ni,nf;
