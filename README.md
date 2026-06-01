@@ -1,3 +1,3 @@
 # Summer_Assignment_25110CN338
-This repository contain all the programs given during Summer Vacations.
-Author :- Kunal
+This repository contain all the programs given during Summer Vacations.<br>
+<b>Author :- Kunal</b>
