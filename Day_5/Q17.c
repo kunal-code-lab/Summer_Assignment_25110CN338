@@ -11,6 +11,7 @@ int main()
             sum = sum+i;
         }
     }
+    
     if(sum == n)
     {
         printf("%d is a Perfect number.",n);

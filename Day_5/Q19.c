@@ -2,7 +2,7 @@
 int main()
 {
     int n;
-    printf("Enter a number :-");
+    printf("Enter a number :- ");
     scanf("%d",&n);
     printf("Factors of %d are :\n",n);
     for(int i=1;i<=n;i++)

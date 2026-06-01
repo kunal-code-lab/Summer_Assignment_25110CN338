@@ -16,6 +16,7 @@ int main()
         fact=1;
         n1=n1/10;
     }
+    
     if(sum==n)
     {
         printf("%d is a Strong Number.",n);
