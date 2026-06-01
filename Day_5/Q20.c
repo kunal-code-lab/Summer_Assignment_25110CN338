@@ -16,6 +16,7 @@ int main()
                     count++;
                 }
             }
+        
             if(count==2)
             {
                 lar = i;
